@@ -1,7 +1,13 @@
 ### [Hi there 👋](https://mislav.dev)
 
-![stats](https://github-profile-trophy.vercel.app/?username=MasterMedo&row=1)
+<details>
+  <summary align="center" style="color:gray;font-weight:900;align-items:center;display:flex">unlock hidden insights</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MasterMedo&row=1" alt="github stats">
+  </p>
+</details>
 
+<p align="center">
 <a href="https://github.com/search?l=Python&o=desc&q=user%3Amastermedo+&s=stars&type=Repositories" target="_blank" title="python">
     <img
         src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white"
@@ -246,3 +252,4 @@
         alt="mysql"
     />
 </a>
+</p>
