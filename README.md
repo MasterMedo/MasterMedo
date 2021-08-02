@@ -30,6 +30,8 @@
     <img src="https://img.shields.io/badge/.net_core-5c2d91?style=for-the-badge&logo=.net&logoColor=white" alt=".net core"/>
 </a>
 
+<img src="https://img.shields.io/badge/kafka-FFFFFF?style=for-the-badge&logo=apachekafka&logoColor=black" alt="kafka"/>
+
 <img src="https://img.shields.io/badge/sql-F7AC00?style=for-the-badge&logo=mariadb&logoColor=white" alt="sql"/>
 
 <img src="https://img.shields.io/badge/cypher-0186F7?style=for-the-badge&logo=neo4j&logoColor=white" alt="cypher"/>
@@ -61,7 +63,7 @@
 </a>
 
 <a href="https://pypi.org/user/MasterMedo/" target="_blank" title="pypi">
-    <img src="https://img.shields.io/badge/pypi-ffde57?style=for-the-badge&logo=pypi&logoColor=white" alt="pypi"/>
+    <img src="https://img.shields.io/badge/pypi-ffde57?style=for-the-badge&logo=pypi&logoColor=black" alt="pypi"/>
 </a>
 
 <a href="https://github.com/search?q=user%3Amastermedo+flask+language%3Apython&type=code" target="_blank" title="flask">
@@ -99,7 +101,7 @@
 </a>
 
 <a href="https://github.com/MasterMedo?tab=repositories&q=&type=&language=javascript&sort=stargazers" target="_blank" title="javascript">
-    <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
+    <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </a>
 
 <a href="https://github.com/MasterMedo?tab=repositories&q=&type=&language=typescript&sort=stargazers" target="_blank" title="typescript">

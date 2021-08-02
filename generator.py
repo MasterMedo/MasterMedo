@@ -19,7 +19,7 @@ action_tag = """\
 """
 
 img_tag = """\
-<img src="https://img.shields.io/badge/{name}-{color}?style=for-the-badge&logo={logo}&logoColor=white" alt="{title}"/>\
+<img src="https://img.shields.io/badge/{name}-{color}?style=for-the-badge&logo={logo}&logoColor={logo_color}" alt="{title}"/>\
 """
 
 with open("badges.csv", "r") as f, open("README.md", "w") as g:
