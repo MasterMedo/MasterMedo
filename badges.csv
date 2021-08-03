@@ -9,7 +9,8 @@ kafka,kafka,FFFFFF,apachekafka,,black
 sql,sql,F7AC00,mariadb,,white
 cypher,cypher,0186F7,neo4j,,white
 react,react_native,20232a,react,https://github.com/MasterMedo?tab=repositories&q=&type=&language=typescript&sort=stargazers,white
-linkedin,linkedin_navigator,0077b5,linkedin,https://www.linkedin.com/in/MasterMedo/,white
+linkedin,linkedin_navigator,0077b5,linkedin,,white
+analytics,google_analytics,DC7000,googleanalytics,,white
 github,github,100000,github,https://github.com/mastermedo,white
 stack overflow,stack_overflow,fe7a16,stack-overflow,https://stackoverflow.com/users/11523964/medo,white
 arch linux,arch_linux,1793d1,arch-linux,https://github.com/MasterMedo/dotfiles,white
@@ -22,7 +23,7 @@ html5,html5,e34f26,html5,https://github.com/MasterMedo/mastermedo.github.io,whit
 markdown,markdown,000000,markdown,https://github.com/MasterMedo?tab=repositories&sort=stargazers,white
 sqlite,sqlite,07405e,sqlite,https://github.com/search?q=sqlalchemy+user%3Amastermedo+language%3Apython&type=code,white
 airtable,airtable,e62f47,airtable,,white
-notion,notion,000000,notion,,white
+notion,notion,FFFFFF,notion,,black
 postman,postman,f76935,postman,,white
 jira,jira,2580f7,jira,,white
 slack,slack,4a154b,slack,,white
@@ -37,4 +38,4 @@ aws,aws,232f3e,amazon-aws,,white
 postgresql,postgresql,316192,postgresql,,white
 mongodb,mongodb,4ea94b,mongodb,,white
 excel,excel,217346,microsoft-excel,,white
-mysql,mysql,00000f,mysql,,white
+mysql,mysql,00758F,mysql,,white

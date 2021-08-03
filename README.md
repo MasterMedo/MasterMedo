@@ -40,9 +40,9 @@
     <img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
 </a>
 
-<a href="https://www.linkedin.com/in/MasterMedo/" target="_blank" title="linkedin">
-    <img src="https://img.shields.io/badge/linkedin_navigator-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
+<img src="https://img.shields.io/badge/linkedin_navigator-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+
+<img src="https://img.shields.io/badge/google_analytics-DC7000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="analytics"/>
 
 <a href="https://github.com/mastermedo" target="_blank" title="github">
     <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -88,7 +88,7 @@
 
 <img src="https://img.shields.io/badge/airtable-e62f47?style=for-the-badge&logo=airtable&logoColor=white" alt="airtable"/>
 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/>
+<img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" alt="notion"/>
 
 <img src="https://img.shields.io/badge/postman-f76935?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 
@@ -130,6 +130,6 @@
 
 <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
 
-<img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 
 </p>
