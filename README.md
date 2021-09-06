@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </a>
 
+<img src="https://img.shields.io/badge/tensorflow-F0B93A?style=for-the-badge&logo=tensorflow&logoColor=black" alt="tensorflow"/>
+
+<img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/>
+
 <img src="https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 
 <a href="https://github.com/search?q=user%3Amemgraph+language%3Adockerfile&type=Code" target="_blank" title="docker">

@@ -1,5 +1,7 @@
 title,name,color,logo,link,logo_color
 python,python,3776ab,python,https://github.com/search?l=Python&o=desc&q=user%3Amastermedo+&s=stars&type=Repositories,white
+tensorflow,tensorflow,F0B93A,tensorflow,,black
+keras,keras,D00000,keras,,white
 git,git,f1502f,git,,white
 docker,docker,0db7ed,docker,https://github.com/search?q=user%3Amemgraph+language%3Adockerfile&type=Code,white
 bash,bash,3c4548,gnu+bash,https://github.com/search?q=user%3Amastermedo+language%3Abash&type=code,white
